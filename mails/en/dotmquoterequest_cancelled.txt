@@ -1,0 +1,9 @@
+Dear {firstname} {lastname},
+
+we would like to let you know that quote {quote_number} has been cancelled.
+
+Note: {admin_note}
+
+If you have any questions, just reply to this email or contact us.
+
+{shop_name} - {shop_url}

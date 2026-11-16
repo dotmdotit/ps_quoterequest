@@ -1,0 +1,14 @@
+Nuova richiesta di preventivo {quote_number}
+
+Cliente: {customer_name} ({customer_email})
+Prodotti: {lines_count}
+Totale di listino (IVA inclusa): {quote_total}
+
+{products_txt}
+
+Note del cliente:
+{customer_message}
+
+{admin_link}
+
+{shop_name} - {shop_url}

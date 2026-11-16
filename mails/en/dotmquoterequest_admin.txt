@@ -1,0 +1,14 @@
+New quote request {quote_number}
+
+Customer: {customer_name} ({customer_email})
+Products: {lines_count}
+List price total (tax incl.): {quote_total}
+
+{products_txt}
+
+Customer notes:
+{customer_message}
+
+{admin_link}
+
+{shop_name} - {shop_url}

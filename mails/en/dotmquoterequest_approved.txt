@@ -1,0 +1,9 @@
+Dear {firstname} {lastname},
+
+we have reviewed your request: quote {quote_number} gives you a discount of {discount_summary}, for a total of {quote_total} (tax incl., shipping excluded).
+
+The offer is valid until {expires_at}. The quote is attached as a PDF.
+
+Complete your purchase: {activation_link}
+
+{shop_name} - {shop_url}

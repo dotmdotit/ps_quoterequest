@@ -1,0 +1,9 @@
+Gentile {firstname} {lastname},
+
+ti informiamo che il preventivo {quote_number} è stato annullato.
+
+Nota: {admin_note}
+
+Per qualsiasi domanda rispondi pure a questa email o contattaci.
+
+{shop_name} - {shop_url}

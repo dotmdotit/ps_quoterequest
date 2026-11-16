@@ -1,0 +1,9 @@
+Gentile {firstname} {lastname},
+
+abbiamo esaminato la tua richiesta: il preventivo {quote_number} ti riserva uno sconto di {discount_summary}, per un totale di {quote_total} (IVA inclusa, spedizione esclusa).
+
+L'offerta è valida fino al {expires_at}. In allegato trovi il preventivo in PDF.
+
+Completa l'acquisto: {activation_link}
+
+{shop_name} - {shop_url}

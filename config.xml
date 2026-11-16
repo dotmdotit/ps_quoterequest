@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>dotmquoterequest</name>
+  <displayName><![CDATA[Richiesta preventivo]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[Carrello dei preventivi: i clienti registrati aggiungono prodotti, inviano la richiesta e completano l'acquisto con lo sconto concordato dal negozio.]]></description>
+  <author><![CDATA[dotm.it]]></author>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall><![CDATA[Disinstallare il modulo? I preventivi salvati restano nel database.]]></confirmUninstall>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries></limited_countries>
+</module>
